@@ -1,12 +1,18 @@
 # Site settings
-title:
-email:
+title: Cindie Neudorf Professional Counselling Services
+email: clneudorf@shaw.ca
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: https://cindieneudorfcounselling.ca # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+phone_number: 306-715-7139
+calendar_link:
+
+# Map
+#map:
+    #zoom: 17
+    #address: 101 - 1132 College Drive, saskatoon, sk
+    #address_details: img/map-marker.svg
 
 # Build settings
 markdown: kramdown
